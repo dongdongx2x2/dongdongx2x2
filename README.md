@@ -4,24 +4,13 @@
 
 화이팅~~햐
 
-ㅇㄴㄹㄴㅇㄹ
+<Br>
 
-
-
-
-
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dongdongx2x2&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=dongdongx2x2&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=dongdongx2x2&show_icons=true" />
-</picture>
+<p align="center">
+<a href="https://github.com/dongdongx2x2/">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dongdongx2x2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dongdongx2x2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
