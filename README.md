@@ -7,6 +7,7 @@
 
 
 <b> 🛠STACKS </b>
+
 <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) 
@@ -31,6 +32,7 @@
 <div align=center>
 
   <b> 💪TOOLS </b>
+  
 <br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
